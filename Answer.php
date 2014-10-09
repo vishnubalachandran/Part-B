@@ -6,7 +6,7 @@ echo "</br>";
 ?>
 <html>
 <body background="black-floor.jpg">
-<a href="index.php"> go back </a>
+<a href="index.php"> Go back </a>
 <br>
 <style>
 		table, td, th {
